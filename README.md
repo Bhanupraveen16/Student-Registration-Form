@@ -1,2 +1,24 @@
-# Student-Registration-Form
-Created a Student Registration Form to record and manage student information such as name, email, and course details. Implemented a clean and responsive design to provide an easy and efficient user experience.
+# Student Registration Form
+
+This is a simple Student Registration Form built using HTML, CSS, and JavaScript.
+
+## Features
+
+• Clean UI  
+• Form Validation  
+• Responsive Design  
+• Beginner Friendly  
+
+## Technologies Used
+
+HTML  
+CSS  
+JavaScript  
+
+## How to Run
+
+Open index.html in browser
+
+## Author
+
+Bhanu Praveen
